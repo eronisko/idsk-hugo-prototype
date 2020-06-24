@@ -1,9 +1,9 @@
 ---
-title: Európska komisia schválila podporu vlády SR vo výške 9,6 milióna eur pre Hornonitrianske bane Prievidza
-date: 2020-06-24T19:30:17+02:00
-draft: true
----
+title: Európska komisia schválila podporu vlády SR vo výške 9,6 milióna eur pre Hornonitrianske
+  bane Prievidza
+date: 2020-06-24T19:30:17.000+02:00
 
+---
 Ďalší  dôležitý míľnik v etape transformácie regiónu horná Nitra sa plní. Jeden z kľúčových projektov akčného plánu transformácie hornej Nitry sa môže na základe súhlasu Európskej komisie (EK) začať implementovať. Komisia odobrila podporu vlády SR vo výške 9,6 milióna eur pre Hornonitrianske bane Prievidza, a.s. (HBP, a.s.).
 
 <!--more-->
