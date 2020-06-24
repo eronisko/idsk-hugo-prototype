@@ -3,4 +3,7 @@ languageCode = "sk"
 DefaultContentLanguage = "sk"
 title = "ID-SK Hugo Prototype"
 theme = "id-sk"
-themesDir = "themes"
+
+[module]
+  [[module.imports]]
+    path = "id-sk"
