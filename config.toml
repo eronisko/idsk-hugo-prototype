@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://idsk-hugo-prototype.vercel.app"
 languageCode = "sk"
 DefaultContentLanguage = "sk"
 title = "ID-SK Hugo Prototype"
