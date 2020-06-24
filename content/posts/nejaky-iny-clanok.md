@@ -1,6 +1,10 @@
 +++
 date = 2020-06-02T22:00:00Z
-title = "Nejaký iný článok"
+title = "Cau Ernest"
 
 +++
-A text k nemu
+Cauko Ernest,
+
+dik za pozvanku.
+
+Uz sa tu troska orientujem.
