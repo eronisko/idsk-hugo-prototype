@@ -2,8 +2,4 @@ baseURL = "http://example.org/"
 languageCode = "sk"
 DefaultContentLanguage = "sk"
 title = "ID-SK Hugo Prototype"
-theme = "id-sk"
-
-[module]
-  [[module.imports]]
-    path = "id-sk"
+theme = "idsk"
